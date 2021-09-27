@@ -1,0 +1,13 @@
+name: NanoiPBPK
+title: NanoiPBPK
+username:
+account: pbpk
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 4537319
+bundleId: 4964346
+url: https://pbpk.shinyapps.io/NanoiPBPK/
+when: 1629922143.53474
+lastSyncTime: 1629922143.53474
+asMultiple: FALSE
+asStatic: FALSE

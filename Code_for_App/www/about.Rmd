@@ -1,0 +1,24 @@
+---
+output:
+  html_document: default
+  word_document: default
+  pdf_document: default
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## About
+
+This nanoparticle interactive physiologically based pharmacokinetic (Nano-iPBPK) model is a web-based interface that enables researchers to predict biodistribution of gold nanoparticles in rats following different routes of administration based on physicochemical properties of the nanoparticles
+
+## Contact:
+
+Zhoumeng Lin, BMed, PhD, DABT<br>
+linzhoumeng\@ufl.edu
+
+
+## Acknowledgement
+
+The project is supported by the National Institute of Biomedical Imaging and Bioengineering of National Institutes of Health (Grant #: R03EB026045).
